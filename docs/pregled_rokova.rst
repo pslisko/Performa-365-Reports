@@ -1,2 +1,2 @@
-Pregled rokova
-===============
+Pregled rokova kojima se može pristupiti
+==============================================
