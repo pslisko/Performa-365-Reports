@@ -13,6 +13,8 @@ Uvodna stranica *Dobrodošli na ispit* sadrži: naziv ispita, datum, dvoranu/lok
 Osnovi ekran pitanja
 ^^^^^^^^^^^^^^^^^^^^
 
+Osnovni ekran pitanja sadrži kategoriju i/ili grupu pitanja
+
 
 Tekst pitanja
 **************
