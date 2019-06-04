@@ -3,6 +3,12 @@ Prijava u sustav
 
 Prijaviti u sustav se možete kao *Postojeći korisnik* ukoliko ste već polagali ispite preko Performa 365 Exams sustava ili kao *Novi korisnik* ukoliko Vam je ovo prvi put da koristite Performa 365 sustav kako biste se registrirali.
 
+Napomena:
+
+- Lozinka mora imati barem jedno veliko slovo
+- Lozinka mora sadržavati barem jedan znak koji nije alfanumerički
+- Lozinka mora sadržavati barem jedan broj 0-9
+
 Postojeći korisnici
 ^^^^^^^^^^^^^^^^^^^^
 
