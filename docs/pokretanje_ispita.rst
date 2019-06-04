@@ -13,7 +13,14 @@ Uvodna stranica *Dobrodošli na ispit* sadrži: naziv ispita, datum, dvoranu/lok
 Osnovi ekran pitanja
 ^^^^^^^^^^^^^^^^^^^^
 
-Osnovni ekran pitanja sadrži kategoriju i/ili grupu pitanja, a pitanja možete pregledati klikom na pojedino pitanje u grupi. Redoslijed odgovaranja na pitanja birate sami osim ako nije drugačije određeno.
+Osnovni ekran pitanja sadrži:
+
+- Grupu kojoj pitanje pripada
+- Tekst pitanja
+- Eventualne privitke pitanju
+- Dodatne informacije vezane uz pitanje
+- Ponuđene odgovore na pitanja
+- Naredbe: **Poništavanje odgovora**, **Prethodno pitanje**, **Slijedeće pitanje** i **Završi ispit**
 
 
 Tekst pitanja
@@ -49,7 +56,7 @@ Nakon što ste označili odgovore na pojedino pitanje u isto prozoru pri dnu pon
 Stablasta struktura grupa i pitanja
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
+Stablasta struktura pitanja sadrži kategoriju i/ili grupu pitanja, a pitanja možete pregledati klikom na pojedino pitanje u grupi, odnosno klikom na strelicu pored određene grupe pitanja gdje će se izlistati popis pitanja za pojedinu grupu. Redoslijed odgovaranja na pitanja birate sami osim ako nije drugačije određeno.
 
 Mjerenje vremena
 ^^^^^^^^^^^^^^^^^^^^
