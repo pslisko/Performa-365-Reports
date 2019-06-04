@@ -29,19 +29,27 @@ Ukoliko postoje dodatne informacije za pojedino pitanje, u desnom gornjem kutu u
 Bodovi
 ***********
 
-
+Ako nije drugačije određeno, svako pitanje nudi uvid u bodovno stanje pitanja, tj. koliko bodova pojedino pitanje iznosi.
 
 Privici
 ************
 
+?
+
 Ponuđeni odgovori
 ******************
+
+?
 
 Poništavanje odgovora
 ************************
 
+Nakon što ste označili odgovore na pojedino pitanje u isto prozoru pri dnu ponuđena je opcija *Poništavanje odgovora* koja služi za lakše poništavanje označenih odgovora i upis novih.
+
 Stablasta struktura grupa i pitanja
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
 
 Mjerenje vremena
 ^^^^^^^^^^^^^^^^^^^^
