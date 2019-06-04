@@ -46,7 +46,7 @@ Ukoliko pojedino pitanje ima dodatne privitke, oni će jasni biti istaknuti ipod
 Ponuđeni odgovori
 ******************
 
-
+?
 
 Poništavanje odgovora
 ************************
@@ -61,18 +61,25 @@ Stablasta struktura pitanja sadrži kategoriju i/ili grupu pitanja, a pitanja mo
 Mjerenje vremena
 ^^^^^^^^^^^^^^^^^^^^
 
-
 Za ispit
 ***********
+
+Nakon što smo započeli ispit, u gornjem desnom kutu pojavit će se brojač za ispit koji će odbrojavati preostalo vrijeme za rješavanje ispita i biti će na vrhu niza.
 
 Za grupu
 ********
 
+Ukoliko je vremenski određeno trajanje pisanja pojedine *Grupe*, **brojač za grupu** će biti prikazan ispod brojača ispita
+
 Za pitanje
 ************
 
+Ukoliko je vremenski određeno trajanje pisanja pojedinog pitanja, **brojač za pitanje** će biti prikazan ispod brojača ispita
+
 Navigacija
 ^^^^^^^^^^^^^^
+
+
 
 Izbor pitanja na stablastom prikazu
 ************************************
