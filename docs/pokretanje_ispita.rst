@@ -79,22 +79,27 @@ Ukoliko je vremenski određeno trajanje pisanja pojedinog pitanja, **brojač za 
 Navigacija
 ^^^^^^^^^^^^^^
 
-
+Glavna navigacijska traka nalazi se u gornjem lijevom kutu aplikacije. Sadrži popis grupa i pitanja na ispitu.
 
 Izbor pitanja na stablastom prikazu
 ************************************
 
-Prethodni
-***********
+Kako bi se prikazao padajući niz pitanja potrebno je kliknuti na ikonu strelice pored pojedine grupe pitanja. Tu se prikaz pitanja može nasumično odabirati.
 
+Prethodno pitanje
+********************
 
-Sljedeći
-**********
+Naredba *Prethodno pitanje* služi za povratak na pitanje prije trenutnog pitanja
 
+Sljedeće pitanje
+******************
+
+Naredba *Sljedeće pitanje* služi za iduće po redu pitanje
 
 Završi ispit
 ^^^^^^^^^^^^^^
 
+Kada ste odgovorili na sva postavljena pitanja kliknite na naredbu *Završi ispit*, potom će se otvoriti novi prozor s pitanjem *Jeste li sigurni da želite završiti ispit* gdje ćete odabrati naredbu *Potvrdi*.
 
 Rezultati polaganja
 ^^^^^^^^^^^^^^^^^^^^^^
