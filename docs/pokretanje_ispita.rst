@@ -34,12 +34,12 @@ Ako nije drugačije određeno, svako pitanje nudi uvid u bodovno stanje pitanja,
 Privici
 ************
 
-?
+Ukoliko pojedino pitanje ima dodatne privitke, oni će jasni biti istaknuti ipod određenog pitanja u slikovnom obliku, ikona slike, ikona videa i ikona adudio zapisa.
 
 Ponuđeni odgovori
 ******************
 
-?
+
 
 Poništavanje odgovora
 ************************
