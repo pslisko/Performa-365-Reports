@@ -5,6 +5,11 @@ Pokretanje ispita
 Uvodna stranica ispita
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Uvodna stranica *Dobrodošli na ispit* sadrži: naziv ispita, datum, dvoranu/lokaciju, zvanje koje korisnik stiče polaganjem ispita i vrijeme trajanja ispita
+
+- Kliknite naredbu *Kreni* kako biste počeli s rješavanjem ispita
+
+
 Osnovi ekran pitanja
 ^^^^^^^^^^^^^^^^^^^^
 
