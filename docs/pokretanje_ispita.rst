@@ -104,7 +104,7 @@ Kada ste odgovorili na sva postavljena pitanja kliknite na naredbu *Završi ispi
 Rezultati polaganja
 ^^^^^^^^^^^^^^^^^^^^^^
 
-Po završetku ispita prikazuje se ekran rezultata, postotak uspješnosti za ukupni i spit i oznaka prolaz/pad te postotak uspješnosti po grupama pitanja. 
+Po završetku ispita prikazuje se ekran rezultata, postotak uspješnosti za ukupni ispit i oznaka prolaz/pad te postotak uspješnosti po grupama pitanja. 
 
 Ukupno ispit
 ************
