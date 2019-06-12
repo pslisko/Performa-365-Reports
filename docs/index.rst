@@ -1,4 +1,4 @@
-Dobro došli na stranicu Performa 365 - provedba ispita
+Dobro došli na stranicu Performa 365 - Izvještaji
 =========================================================
 
 
@@ -16,21 +16,35 @@ Dobro došli na stranicu Performa 365 - provedba ispita
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: PRIJAVA U SUSTAV
+   :caption: NAVIGACIJA
 
-   prijava_u_sustav   
+   navigacija   
    
    
 .. toctree::
    :maxdepth: 3
    :hidden:
-   :caption: PREGLED ROKOVA KOJIMA SE MOŽE PRISTUPITI
+   :caption: PRETRAŽIVANJE
 
-   pregled_rokova
+   pretrazivanje
    
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: POKRETANJE ISPITA
+   :caption: PARAMETRI
    
-   pokretanje_ispita
+   parametri
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: EKSPORT
+   
+   eksport
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: POPIS IZVJEŠTAJA
+   
+   popis_izvjestaja
