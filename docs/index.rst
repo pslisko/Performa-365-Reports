@@ -47,4 +47,4 @@ Dobro došli na stranicu Performa 365 - Izvještaji
    :hidden:
    :caption: POPIS IZVJEŠTAJA
    
-   popis_izvjestaja
+   popis_izvjestaja/index
