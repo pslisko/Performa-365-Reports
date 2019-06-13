@@ -3,8 +3,9 @@ Navigacija
 
 Glavni izbornik (Menu) nalazi se s lijeve strane i sadrži ikonu *Izvještaji*. 
 
-Kretanje kroz navigaciju
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Osnove navigacije
+^^^^^^^^^^^^^^^^^^^^^^
+
 
 - Kada se prijavite u *Performa 365 Izvještaji* otvorit će se glavni prozor s popisom izvještaja. 
 - Izvještaji su različiti za različite uloge u sustavu (administrator pitanja, administrator ispita, administrator rokova)
