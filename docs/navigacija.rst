@@ -12,7 +12,7 @@ Kretanje kroz navigaciju
 
 Kada otvorimo određeni izvještaj, on na vrhu ima svoju navigaciju kako slijedi:
 
-.. image:: Screenshot_navigacija_up.png
+.. image:: izvjestaji_navigacija.png
    :align: center
 
 
