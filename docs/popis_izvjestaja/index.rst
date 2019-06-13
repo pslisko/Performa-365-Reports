@@ -6,6 +6,7 @@ Popis izvještaja
   :maxdepth: 1
   :name: toc-roles
   
+  struktura_pitanja_po_autorima
   katalog_pitanja_po_autorima
   katalog_pitanja_po_kategorijama
   ispis_podataka_ispita
