@@ -7,9 +7,7 @@ Pretraživanje
 3. Sortiranje u pretraživanju:
 
 - a.	Velika/mala slova (prepoznaje i uključuje samo odabranu veličinu slova)
-
 - b.	Prikaz samo točno upisane riječi
-
 - c.	Uključuje dodatne znakove za pretraživanje
 
 .. image:: izvjestaji_pretrazivanje.png
