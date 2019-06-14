@@ -1,12 +1,6 @@
 Dobro došli na stranicu Performa 365 - Izvještaji
 =========================================================
 
-.. image:: izvjestaji_pocetna.png
-   :align: center
-
-
-
-
 
 .. toctree::
    :maxdepth: 2
