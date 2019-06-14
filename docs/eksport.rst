@@ -10,3 +10,6 @@ Eksport
 •	TIFF file
 
 2. Odaberemo dokument u kojem želimo preuzeti podatke klikom na npr. Acrobat (PDF) file  te ih sustav izveze u željenom dokumentu.
+
+.. image:: izvjestaji_export.png
+   :align: center
